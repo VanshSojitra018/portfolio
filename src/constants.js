@@ -77,8 +77,6 @@ export const SkillsInfo = [
   },
 ];
 
-
-
 export const education = [
   {
     id: 0,
@@ -116,8 +114,7 @@ export const projects = [
     description: "A powerful and user-friendly React.js web designed.",
     image: flexit,
     tags: ["HTML", "Tailwind CSS", "JavaScript", "React JS"],
-    github:
-      "https://github.com/codingmastr/GitHub-Profile-Search-App-Using-React-JS",
+    github: "https://github.com/VanshSojitra018/project.git",
     webapp: "https://flex-it-clone.netlify.app/",
   },
   {
